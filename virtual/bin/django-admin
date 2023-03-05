@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/home/tito/Desktop/python practice/Django_Project/Django_ecommerce/virtual/bin/python" "$0" "$@"
+'''exec' "/home/tito/Music/Django Practice/Django_ecommerce/virtual/bin/python" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
